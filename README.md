@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AIra-work213/AIra-work213/main/assets/header.svg" width="100%" alt="Денис · AI Engineer · LLM-приложения, агенты и поиск" />
+  <img src="assets/header.png" width="100%" alt="Денис · AI Engineer" />
 </p>
 
 <p align="center">
